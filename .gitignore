@@ -1,11 +1,4 @@
-# Ignore virtual environments
-myenv/
-venv/
-.env/
-
-# Ignore VSCode settings
-.vscode/
-
-# Ignore cache files
-__pycache__/
-*.pyc
+myenv
+.env
+__pycache__
+.vscode
